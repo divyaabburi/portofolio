@@ -1,0 +1,23 @@
+/* Add this CSS to your existing stylesheet or create a new one */
+.profile-intro {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.intro-text {
+    width: 60%; /* Adjust the width as needed */
+    padding-right: 20px; /* Adjust the spacing between text and image */
+}
+
+.profile-image {
+    width: 35%; /* Adjust the width as needed */
+}
+
+.profile-image img {
+    border-radius: 50%; /* Creates a circular profile picture */
+    width: 100%;
+    height: auto;
+    display: block;
+}
