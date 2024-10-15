@@ -1,32 +1,6 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+I'm Divya Chandana Abburi, a dedicated Java Full Stack Developer with over 2.5 years of experience building innovative, high-performing web applications. My journey in software development has been fueled by a deep love for problem-solving and a passion for creating seamless digital experiences that make a real impact.With expertise in Java/J2EE, I've mastered frameworks like Spring Boot, Hibernate, and Spring MVC to design and implement robust backend systems, while leveraging Angular and ReactJS to craft engaging front-end interfaces. I thrive in bringing both sides together, ensuring efficiency, scalability, and user satisfaction.I am particularly passionate about cloud technologies, using AWS and Azure to scale applications and CI/CD tools like Jenkins, Docker, and Kubernetes to streamline deployment. Agile methodologies drive my work, and I'm constantly learning and adapting to new challenges.
+With a Master's in Information Systems and Technology, I'm committed to applying my skills to build powerful solutions and contribute to the future of technology. I'm excited to push boundaries and grow in roles where innovation and collaboration are at the forefront.
 
+I am currently working as a Java Full Stack Developer at T-Mobile, where I develop scalable and efficient single-page web applications using CanJS framework and integrate backend APIs with Spring Boot. I regularly utilize Java 8 features such as lambda expressions and streams to optimize the performance of our systems. Additionally, I have extensive experience working with GraphQL servers, ensuring they are well-optimized, secure, and properly monitored. My work also involves improving performance through multithreading and using Splunk for production monitoring and deployment tracking. I am proficient in building and managing CI/CD pipelines using Jenkins, Docker, and OpenShift for the smooth deployment of microservices.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+In my previous role as a Full Stack Java Developer at ICICI Bank, I was involved in all phases of the SDLC, creating dynamic web applications using Spring MVC, jQuery, and Hibernate. I worked extensively with Angular on the front-end and integrated MongoDB and Node.js for backend services. I also played a key role in migrating legacy applications to a microservices architecture using Spring Boot, and I deployed these applications on AWS EC2 using Lambda and CloudFormation to automate services.
